@@ -1,0 +1,1 @@
+# remove_kdebloats_after_uninstalling_lattedock
