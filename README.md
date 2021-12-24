@@ -4,3 +4,4 @@ to remove dependencies (not all get removed) the python code can be used . The k
 written in the python code . kwalletmanager was still left after 
 executing the code it can be removed separately by :
 sudo apt-get autoremove kwalletmanager
+sudo apt autoremove libkwalletbackend5-5
